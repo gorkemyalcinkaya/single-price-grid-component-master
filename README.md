@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://gorkemyalcinkaya.github.io/single-price-grid-component-master/)
 
 ### Built with
 
