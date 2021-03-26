@@ -1,8 +1,6 @@
 .container {
     background-color: hsl(204, 43%, 93%);
-    background-repeat: no-repeat;
     font-family: 'Karla';
-    font-size: 1rem;
     text-align: left;
 }
 
@@ -11,9 +9,9 @@
     box-shadow: 1px 1px 20px 3px#c9e5ee;
     display: flex;
     flex-flow: row wrap;
-    justify-content: center; 
+    justify-content: center;
     padding: 0;
-    margin:20% 6%;
+    margin: 20% 6%;
 }
 
 .info-section {
@@ -21,9 +19,7 @@
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     flex-grow: 1;
-   
     padding: 5% 7%;
-    
 }
 
 .info-section h1 {
@@ -56,20 +52,24 @@
 .price-section h1 {
     font-size: 1rem;
 }
-.price-section h2{
+
+.price-section h2 {
     font-size: 2rem;
     margin: 0 0 3%;
 }
-.price-section span{
+
+.price-section span {
     font-weight: 100;
     font-size: 0.9rem;
     color: hsl(216, 71%, 87%);
     padding-left: 2%;
 }
-.price-section p{
+
+.price-section p {
     color: hsl(217, 60%, 93%);
-    margin:2% 0 10%;
+    margin: 2% 0 10%;
 }
+
 .btn {
     background-color: #C0DF34;
     box-shadow: 1px 1px 5px hsl(180, 18%, 16%);
@@ -79,11 +79,12 @@
     font-size: 1rem;
     font-weight: 700;
     line-height: 10%;
-    padding:1.5rem 6.5rem;
+    padding: 1.5rem 6.5rem;
     text-align: center;
     text-decoration: none;
 }
-.btn:hover{
+
+.btn:hover {
     background-color: #fff;
     color: #C0DF34;
 }
@@ -110,25 +111,28 @@
     line-height: 1.5;
     padding: 0;
 }
-@media (min-width:880px){
-    .flex-container{
+
+@media (min-width:880px) {
+    .flex-container {
         margin: 15% 32% 3%;
         padding: auto;
     }
-    .price-section{
-        border-bottom-left-radius:2%;
+
+    .price-section {
+        border-bottom-left-radius: 2%;
         padding: 3% 5%;
         padding-right: 0;
     }
-    .btn{
-        margin-top:4%;
-        padding:1.5rem 5.5rem;
+
+    .btn {
+        margin-top: 4%;
+        padding: 1.5rem 5.5rem;
     }
-    .why-us-section{
+
+    .why-us-section {
         border-bottom-left-radius: 0;
         border-bottom-right-radius: 2%;
         padding: 3% 5%;
-       
-       
+
     }
 }
