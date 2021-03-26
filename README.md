@@ -30,8 +30,7 @@ Users should be able to:
 
 ### Links
 
-
-- Live Site URL: [Live Site Preview](https://gorkemyalcinkaya.github.io/single-price-grid-component-master/)
+- [Live Site Preview](https://gorkemyalcinkaya.github.io/single-price-grid-component-master/)
 
 ### Built with
 
